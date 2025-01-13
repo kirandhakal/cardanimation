@@ -16,4 +16,10 @@ To run this project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repo-url>
+   git clone <https://github.com/kirandhakal/cardanimation>
+
+## live
+To see live demo :
+```bash
+https://kirandhakal.github.io/cardanimation/
+
