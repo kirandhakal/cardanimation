@@ -22,4 +22,9 @@ To run this project locally:
 To see live demo :
 ```bash
 https://kirandhakal.github.io/cardanimation/
+```
+## DEMO
+```bash
+https://drive.google.com/file/d/1QubwRVxs7C01up5q6svmyFbPYlaMc0N0/view?usp=sharing
+```
 
